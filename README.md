@@ -10,13 +10,13 @@ After running the code, we have 3 options:
 
 After we choose to go somewhere we, (Go somewhere) changes to (Keep going), and we also get the option to (Stop).
 
-(ADD PICTURE HERE)
+![code](pictures/code.png)
 
 ## The Dashboard
 
 On the Dashboard, we can see how much fuel we have left in both numbers, or in the percantage of total left, how far we still have to go, and our fuel consumption rate, along with any errors we get.
 
-(ADD PICTURE HERE)
+![dashboard](pictures/dashboard.png)
 
 ## How to Run
 
@@ -34,6 +34,6 @@ On the Dashboard, we can see how much fuel we have left in both numbers, or in t
 
 There are 3 alarams that feed into eachother in the following way:
 
-(ADD PICTURE HERE)
+![rule_chain](pictures/rule_chain.png)
 
 These will raise an alarm of increasing severity the lower our fuel gets.
